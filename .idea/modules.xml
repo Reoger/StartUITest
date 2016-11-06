@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/StartUITest.iml" filepath="$PROJECT_DIR$/StartUITest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/userfloatdemo/userfloatdemo.iml" filepath="$PROJECT_DIR$/userfloatdemo/userfloatdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpageindicator/viewpageindicator.iml" filepath="$PROJECT_DIR$/viewpageindicator/viewpageindicator.iml" />
     </modules>
   </component>
 </project>

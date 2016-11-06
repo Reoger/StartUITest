@@ -1,1 +1,1 @@
-include ':app', ':userfloatdemo'
+include ':app', ':userfloatdemo', ':viewpageindicator'
